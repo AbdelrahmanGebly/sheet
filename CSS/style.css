@@ -1,0 +1,37 @@
+/* h1{
+    text-align: center;
+    padding: 20px;
+    border: 2px red solid;
+    color: green;
+    border-radius: 5px;
+    margin: 50px 50px 0px;
+    text-transform: capitalize;
+}
+
+input{
+    outline: none;
+}
+label{
+    cursor: pointer;
+}
+
+textarea{
+    resize: none;
+    height: 120px;
+} */
+
+table tr{
+    vertical-align: middle;
+}
+table tr td select{
+    width:75%
+}
+.even td{
+    background-color: #dddddd4c !important;
+}
+select{
+    border: none;
+    border-radius: 5px;
+    padding: 5px;
+    outline: none;
+}
